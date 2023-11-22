@@ -20,7 +20,7 @@ EMAIL_HOST = 'smtp.gmail.com'  # Replace with your SMTP host
 EMAIL_PORT = 587  # Replace with your SMTP port
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'dev.techsmith@gmail.com'  # Replace with your email
-EMAIL_HOST_PASSWORD = 'jczddrwizqcnqrbi'  # Replace with your email password
+EMAIL_HOST_PASSWORD = ''  # Replace with your email password
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
